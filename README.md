@@ -1,5 +1,5 @@
 # Project Nexus
-Nexus is the codename for a new, developmental, and probably inhumane experiment where I am singlehandedly attempting to resurrect a deceased fly.
+Nexus is the codename for a new, R&D based, and probably inhumane experiment where I am singlehandedly attempting to resurrect a deceased fly.
 
 Google (see research papers below) has partnered with HHMI Janelia to map an entire fly brain and publish the schematics on the internet for all to use. Unfortunately, our fly friend is dead. I'm taking it upon myself to develop an algorithm and cord to allow a fly to live and develop in a virtual environment, specifically a Unity 6000f1 game. 
 
