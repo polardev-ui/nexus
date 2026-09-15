@@ -11,4 +11,10 @@ The environment will compose of the following, where the fly will undergo hundre
 
 While this may seem inhumane, at least we aren't testing on humans... yet. With the approval of the Federal Government, Project Nexus would like to test on a donated brain from a deceased individual for trails within a simulated environment, testing life from 0-100. The resources needed will be up towards $14,620,000 USD.
 To learn more, go to https://research.wsgpolar.me to learn how I'm doing what I'm doing, and why. It also includes reports and experiment results. Nexus will not put the fly under extreme measures (torture) or any inhumane acts.
+
+Research papers: 
+- Google: https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/
+- National Institutions of Health: https://www.nih.gov/news-events/nih-research-matters/complete-wiring-map-adult-fruit-fly-brain
+- HHMI Janelia: https://www.hhmi.org/news/scientists-complete-full-map-fruit-fly-brain-connectome
+
 Nexus is now in development. 9-15-2026 9:52AM EST
