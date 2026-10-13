@@ -25,13 +25,12 @@
             justify-content: center;
             align-items: center;
             position: relative;
+            padding: 20px;
         }
 
         h1 {
             font-size: 3.5rem;
-            font-weight: 900; /* Thicker font weight */
-            
-            /* Black to strong purple text gradient */
+            font-weight: 900; 
             background: linear-gradient(180deg, #1a001a 0%, #a000f0 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -48,7 +47,44 @@
             color: #b15eff;
         }
 
-        /* Anchored footer */
+        .discoveries-container {
+            width: 100%;
+            max-width: 600px;
+            margin: 25px 0;
+            background: rgba(26, 0, 26, 0.4);
+            border: 1px solid rgba(160, 0, 240, 0.3);
+            border-radius: 8px;
+            padding: 20px;
+            text-align: left;
+            box-shadow: 0 0 20px rgba(160, 0, 240, 0.1);
+        }
+
+        .discoveries-container h2 {
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #b15eff;
+            margin-bottom: 15px;
+            text-align: center;
+            border-bottom: 1px solid rgba(160, 0, 240, 0.3);
+            padding-bottom: 8px;
+        }
+
+        .discovery-log {
+            margin-bottom: 12px;
+            font-size: 0.95rem;
+        }
+
+        .discovery-log:last-child {
+            margin-bottom: 0;
+        }
+
+        .discovery-date {
+            font-size: 0.8rem;
+            color: #8c6fa1;
+            margin-bottom: 2px;
+        }
+
         .footer-container {
             position: absolute;
             bottom: 20px;
@@ -69,6 +105,14 @@
     <p><b>Project Nexus is now in effect, and the trials have begun.</b> This page will live update with each discovery.</p>
     <p>Last Updated: 9-15-2026</p>
     
+    <div class="discoveries-container">
+        <h2>Live Discoveries</h2>
+        <div class="discovery-log">
+            <div class="discovery-date">Entry #001 — 9-15-2026</div>
+            <p>Initial neural mapping protocol established. Baseline electrical impulse tracking active.</p>
+        </div>
+    </div>
+
     <div class="footer-container">
         <p class="footer">Overseen by Josh Clark - </p>
         <a href="https://wsgpolar.me">https://wsgpolar.me</a>
